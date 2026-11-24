@@ -1,2 +1,4 @@
-# programa-PHYTON
-FASE 5_Evaluación Final POA
+# programa-PYTHON
+Fase 5 - Evaluación Final POA
+Fundamentos de Programación (213022) - UNAD
+Problema 1: nivel de compromiso de sesiones de clientes
