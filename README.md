@@ -6,4 +6,4 @@ Fundamentos de Programación (213022) - UNAD
 
 Problema 1: nivel de compromiso de sesiones de clientes
 
-Archivo principal: fase_5_ JONATHAN_JAIMES.py
+Archivo principal: fase_5_ jonathan_jaimes.py
